@@ -1,3 +1,5 @@
+[![Stars](https://img.shields.io/github/stars/RanaAhmar/github-actions-security-audit?style=for-the-badge)](https://github.com/RanaAhmar/github-actions-security-audit/stargazers) [![Issues](https://img.shields.io/github/issues/RanaAhmar/github-actions-security-audit?style=for-the-badge)](https://github.com/RanaAhmar/github-actions-security-audit/issues) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://github.com/RanaAhmar/github-actions-security-audit/blob/main/LICENSE)
+
 # 🛡️ GitHub Actions Security Audit
 
 CLI tool to scan GitHub Action workflows for common security vulnerabilities like script injections, untrusted checkouts, and excessive permissions. Developed by **Ahmar Hussain** for the **Stackaura** ecosystem.
@@ -37,6 +39,18 @@ If you found this tool useful, check out our other high-performance web utilitie
 
 
 
+
+
+---
+### 🌟 Part of the [Stackaura](https://github.com/RanaAhmar) Ecosystem
+*Empowering developers with automated tools and high-performance solutions.*
+
+**Explore more:**
+- 🚀 [All Projects](https://github.com/RanaAhmar?tab=repositories)
+- 🛠️ [Daily Coding Tips](https://github.com/RanaAhmar/daily-coding-tips)
+- 📊 [Profile Dashboard](https://github.com/RanaAhmar/RanaAhmar)
+
+*If you find this project useful, please consider giving it a star! ⭐*
 
 
 ---
